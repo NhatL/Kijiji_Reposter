@@ -1,0 +1,19 @@
+[
+    {
+        "category": [
+            "sporting goods, exercise",
+            "tennis, racquet"
+        ],
+        "ad_type": "offer",
+        "price": "20",
+        "sale_by": "owner",
+        "title": "Insert Title Here",
+        "description": "Description of Sales item",
+        "location": "Toronto",
+        "postal_code": "M5T M5T",
+        "address": "150 Toronto St.",
+        "images": [
+            "/card.jpg"
+        ]
+    },
+]
